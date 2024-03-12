@@ -1,4 +1,4 @@
-# Csharp_hangman
+# HangmanSharp
 
 The project is a C#-based Hangman game where players guess letters to reveal a hidden word. The game uses a hangman figure as visual feedback, gradually appearing as incorrect guesses are made. The game continues until the player correctly guesses all letters or the figure is drawn, indicating a loss.
 
