@@ -1,6 +1,11 @@
 # HangmanSharp
-
 The project is a C#-based Hangman game where players guess letters to reveal a hidden word. The game uses a hangman figure as visual feedback, gradually appearing as incorrect guesses are made. The game continues until the player correctly guesses all letters or the figure is drawn, indicating a loss.
+
+[![Static Badge](https://img.shields.io/badge/System;-brown)](https://www.nuget.org/packages/System;/)
+[![Static Badge](https://img.shields.io/badge/System.Collections.Generic;-pink)](https://www.nuget.org/packages/System.Collections.Generic;/)
+[![Static Badge](https://img.shields.io/badge/System.Random;-black)](https://www.nuget.org/packages/System.Random;/)
+[![Static Badge](https://img.shields.io/badge/System.Text;-purple)](https://www.nuget.org/packages/System.Text;/)
+
 
 ## Table of Contents
 
